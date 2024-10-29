@@ -1,5 +1,5 @@
-# Step two
+# Step three
 
-The map is moved to a folder
+The map overview added
 
 
